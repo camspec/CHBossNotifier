@@ -1,2 +1,2 @@
-pause==0.3
-pywin32==302
+Pillow==9.0.1
+pygame==2.1.2
